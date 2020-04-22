@@ -1,3 +1,64 @@
 .title {
     color: #02ccba;
-  }
+}
+
+.extra-1 {
+    margin: 0 15%;
+}
+
+.extra-1 h1 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.profile {
+    width: 100%;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+    background-position: 35% 10%;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.iki {
+    background-image: url("src/iki.jpg");
+}
+
+.latif {
+  background-image: url("src/latif.jpg");
+}
+
+.putri {
+    background-image: url("src/putri.jpg");
+}
+
+.sabil {
+  background-image: url("src/sabil.jpg");
+}
+
+.nunun {
+  background-image: url("src/nunun.jpg");
+}
+
+.text,
+.text-right {
+    margin: 40px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.motto {
+    font-style: italic;
+}
+
+.right {
+    justify-content: flex-end;
+    text-align: right;
+}
