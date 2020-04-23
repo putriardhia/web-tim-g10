@@ -1,3 +1,40 @@
+body {
+    margin: 0;
+    font-family: "Lucida Grande";
+}
+
+
+.container {
+    width: 1170px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+
+.top-wrapper {
+    padding: 180px 0 180px 0;
+    background-image: url("src/Top.jpg");
+    background-size: cover;
+    color: #02ccba;
+    text-align: center;
+}
+
+.top-wrapper h1 {
+    opacity: 1;
+    font-size: 90px;
+    letter-spacing: 10px;
+    margin-bottom: 10px;
+}
+
+.top-wrapper h2 {
+    opacity: 1;
+    font-size: 35px;
+    letter-spacing: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
 .title {
     color: #02ccba;
 }
