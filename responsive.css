@@ -1,1 +1,10 @@
-
+/* Tablet */
+@media all and (max-width: 1000px) {
+.top-wrapper h1 {
+    font-size: 75px;
+    line-height: 87px;
+}
+.top-wrapper h2 {
+    font-size: 35px;
+    line-height: 41px;
+}
