@@ -3,12 +3,10 @@
     
     .top-wrapper h1 {
         font-size: 75px;
-        line-height: 87px;
     }
 
     .top-wrapper h2 {
         font-size: 35px;
-        line-height: 41px;
     }
 
     .bottom-container {
@@ -39,8 +37,16 @@
 
 /* Smartphone */
 @media all and (max-width: 670px) {
+    .logo {
+        font-size: 20px;
+    }
+
     .header-left {
         margin-left: 0px;
+    }
+
+    .header-right a {
+        font-size: 10px;
     }
 
     .header-right {
@@ -57,13 +63,11 @@
     }
 
     .top-wrapper h1 {
-        font-size: 75px;
-        line-height: 87px;
+        font-size: 50px;
     }
 
     .top-wrapper h2 {
-        font-size: 35px;
-        line-height: 41px;
+        font-size: 30px;
     }
 
     .bottom-container {
