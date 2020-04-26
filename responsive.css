@@ -1,10 +1,76 @@
 /* Tablet */
-@media all and (max-width: 1170px) {
-.top-wrapper h1 {
-    font-size: 75px;
-    line-height: 87px;
+@media all and (max-width: 1000px) {
+    .top-wrapper h1 {
+        font-size: 75px;
+        line-height: 87px;
+    }
+
+    .top-wrapper h2 {
+        font-size: 35px;
+        line-height: 41px;
+    }
+
+    .bottom-container {
+        width: 100%;
+    }
+
+    .comments {
+        width: 100%;
+        padding-top: 20px;
+    }
+
+    .form {
+        max-width: 480px;
+    }
+    
+    .wrap-input {
+        margin-bottom: 26px;
+    }
 }
-.top-wrapper h2 {
-    font-size: 35px;
-    line-height: 41px;
+
+/* Smartphone */
+@media all and (max-width: 670px) {
+    .top-wrapper h1 {
+        font-size: 75px;
+        line-height: 87px;
+    }
+
+    .top-wrapper h2 {
+        font-size: 35px;
+        line-height: 41px;
+    }
+
+    .bottom-container {
+        width: 100%;
+        padding-top: 0;
+    }
+
+    .comments {
+        width: 100%;
+        padding-top: 20px;
+    }
+
+    .extra-2 h1 {
+        text-align: left;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .questions {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .answers {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .form-title {
+        font-size: 20px;
+    }
+
+    .wrap-input {
+        margin-bottom: 26px;
+    }
 }
