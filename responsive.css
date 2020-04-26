@@ -30,6 +30,10 @@
     .extra-1 {
         margin: 0 10%;
     }
+
+    .form-btn {
+        margin-top: 10px;
+    }
 }
 
 /* Smartphone */
@@ -78,8 +82,13 @@
         margin-bottom: 26px;
     }
 
+    .form-btn {
+        margin-top: 10px;
+    }
+
     footer {
         text-align: center;
+        padding-top: 1px;
     }
 
     .footer-about {
