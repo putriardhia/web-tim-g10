@@ -4,7 +4,6 @@
         font-size: 75px;
         line-height: 87px;
     }
-
     .top-wrapper h2 {
         font-size: 35px;
         line-height: 41px;
@@ -73,4 +72,16 @@
     .wrap-input {
         margin-bottom: 26px;
     }
+
+    footer {
+        text-align: center;
+      }
+      .footer-about {
+          float: none;
+      }
+      
+      .footer-links {
+          float: none;
+          text-align: center;        
+      }
 }

@@ -128,7 +128,7 @@ header {
 }
 
 .sabil {
-  background-image: url("src/sabil.jpg");
+  background-image: url("src/sabil.png");
 }
 
 .nunun {
@@ -389,7 +389,7 @@ button:hover {
 footer {
     background-color: #303036;
     color: #d3d3d3;
-    height: 200px;
+    height: 170px;
     width: 100%;
     position: relative;
 }
@@ -397,18 +397,20 @@ footer {
 .footer-about {
     float: left;
 }
-.footer-about h2 {
-    padding-left: 50px;
-}
-.footer-about h3 {
-    padding-left: 20px;
-}
+
 .footer-links {
-    float: right;        
+    float: right;
+    text-align: right;        
 }
 
 .footer-links li {
     list-style: none;
+    line-height: 20px;
+}
+
+.footer-links li:hover {
+    transition: all 0.5s;
+    color: rgb(90, 150, 147);
 }
 
 .footer-bottom {
