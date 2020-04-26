@@ -3,12 +3,10 @@
     
     .top-wrapper h1 {
         font-size: 75px;
-        line-height: 87px;
     }
 
     .top-wrapper h2 {
         font-size: 35px;
-        line-height: 41px;
     }
 
     .bottom-container {
@@ -57,12 +55,12 @@
     }
 
     .top-wrapper h1 {
-        font-size: 75px;
+        font-size: 34px;
         line-height: 87px;
     }
 
     .top-wrapper h2 {
-        font-size: 35px;
+        font-size: 17px;
         line-height: 41px;
     }
 
