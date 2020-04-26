@@ -26,6 +26,10 @@
     .wrap-input {
         margin-bottom: 26px;
     }
+
+    .form-btn {
+        margin-top: 10px;
+    }
 }
 
 /* Smartphone */
@@ -72,6 +76,10 @@
 
     .wrap-input {
         margin-bottom: 26px;
+    }
+
+    .form-btn {
+        margin-top: 10px;
     }
 
     footer {

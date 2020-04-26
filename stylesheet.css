@@ -217,10 +217,9 @@ li {
 
 .question-wrapper {
     background-color: #f0f0f0;
-    padding-top: 20px;
-    padding-left: 0;
-    padding-bottom: 0;
     padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
     margin-bottom: 0;
 }
 
@@ -231,9 +230,9 @@ li {
 }
 
 .answer-wrapper {
-    padding-left: 0;
-    padding-bottom: 20px;
     padding-top: 0;
+    padding-bottom: 20px;
+    padding-left: 0;
     margin-top: 0;
     border-bottom: 1px dashed #bdbdbd;
 }
@@ -332,7 +331,7 @@ textarea {
 }
 
 textarea.input {
-    min-height: 150px;
+    min-height: 160px;
     border-radius: 25px;
     padding: 12px 30px;
 }
@@ -373,12 +372,13 @@ button:hover {
     font-weight: bold;
     font-size: 16px;
     letter-spacing: 0.8px;
-    line-height: 1.5px;
+    line-height: 1.5;
     color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 0 25px;
+    margin-top: 30px;
     transition: all 0.4s;
 }
 
