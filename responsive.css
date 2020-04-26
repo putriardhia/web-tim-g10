@@ -26,6 +26,10 @@
     .wrap-input {
         margin-bottom: 26px;
     }
+
+    .extra-1 {
+        margin: 0 10%;
+    }
 }
 
 /* Smartphone */
@@ -86,4 +90,22 @@
         float: none;
         text-align: center;        
     }
+
+    .extra-1 {
+        margin: 0 5%;
+    }
+
+    .img {
+        width: 150px;
+        height: 150px;
+        background-position: 35% 10%;
+        background-size: cover;
+        border-radius: 50%;
+    }
+
+    .text,
+    .text-right {
+        margin: 20px;
+    }
+
 }
