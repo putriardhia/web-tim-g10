@@ -105,8 +105,8 @@
     }
 
     .img {
-        width: 150px;
-        height: 150px;
+        max-width: 120px;
+        max-height: 120px;
         background-position: 35% 10%;
         background-size: cover;
         border-radius: 50%;
@@ -114,7 +114,8 @@
 
     .text,
     .text-right {
-        margin: 20px;
+        margin: 10px 20px;
+        font-size: small;
     }
 
 }
