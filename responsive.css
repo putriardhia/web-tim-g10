@@ -1,10 +1,26 @@
-/* Tablet */
+/* Untuk Tablet */
 @media all and (max-width: 1170px) {
-.top-wrapper h1 {
-    font-size: 75px;
-    line-height: 87px;
+    .top-wrapper h1 {
+        font-size: 75px;
+        line-height: 87px;
+    }
+    .top-wrapper h2 {
+        font-size: 35px;
+        line-height: 41px;
+    }
 }
-.top-wrapper h2 {
-    font-size: 35px;
-    line-height: 41px;
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    footer {
+      text-align: center;
+    }
+    .footer-about {
+        float: none;
+    }
+    
+    .footer-links {
+        float: none;
+        text-align: center;        
+    }
 }
