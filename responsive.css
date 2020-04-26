@@ -51,6 +51,11 @@
         display: block;
     }
 
+    .top-wrapper {
+        text-align: left;
+        padding-top: 130px;
+    }
+
     .top-wrapper h1 {
         font-size: 75px;
         line-height: 87px;
