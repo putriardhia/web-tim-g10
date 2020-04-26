@@ -174,7 +174,7 @@ header {
 
 .bottom-wrapper {
     margin: 0 auto;
-    width: 1163px;
+    max-width: 1163px;
     background:#f7f7f7;
     border-radius: 10px;
     overflow: hidden;
