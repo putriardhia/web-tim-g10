@@ -39,10 +39,6 @@
 
 /* Smartphone */
 @media all and (max-width: 670px) {
-    .header-left {
-        margin-left: 0px;
-    }
-
     .header-right {
         display: none;
     }
