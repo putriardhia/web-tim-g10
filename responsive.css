@@ -107,6 +107,7 @@
     footer {
         text-align: center;
         padding-top: 1px;
+        height: 320px;
     }
 
     .footer-about {
@@ -116,6 +117,13 @@
     .footer-links {
         float: none;
         text-align: center;        
+    }
+    
+    .footer-links li {
+        text-align: center;
+        padding-right: 40px;
+        font-size: 20px;
+        line-height: 30px;
     }
 
     .extra-1 {
