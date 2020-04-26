@@ -156,9 +156,9 @@ header {
 .extra-2 {
     width: 100%;
     min-height: 100%;
-	background: #eba151 url('../src/newsletter_pat.png') repeat;
-	background-position: 0 -20px;
-	position: relative;
+    background: #eba151 url('../src/newsletter_pat.png') repeat;
+    background-position: 0 -20px;
+    position: relative;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
