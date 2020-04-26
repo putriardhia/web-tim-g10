@@ -37,13 +37,15 @@
 
 /* Smartphone */
 @media all and (max-width: 670px) {
-    .header-left {
+    .logo {
         font-size: 20px;
+    }
+
+    .header-left {
         margin-left: 0px;
     }
 
     .header-right {
-        font-size: 20px;
         display: none;
     }
   
