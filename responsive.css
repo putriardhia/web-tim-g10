@@ -1,6 +1,16 @@
 /* Tablet */
 @media all and (max-width: 1000px) {
     
+    .header-right {
+        display: none;
+    }
+  
+    .menu-icon {
+        display: block;
+    }
+    
+    
+    
     .top-wrapper h1 {
         font-size: 75px;
     }
