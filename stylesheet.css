@@ -76,21 +76,20 @@ header {
 
 .top-wrapper {
     padding: 180px 0 180px 0;
-    background-image: url("src/top.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('src/top.jpg');
     background-size: cover;
     color: #eba151;
     text-align: center;
 }
 
 .top-wrapper h1 {
-    opacity: 0.7;
     font-size: 90px;
     letter-spacing: 5px;
     margin-bottom: 10px;
 }
 
 .top-wrapper h2 {
-    opacity: 0.7;
+    opacity: 0.9;
     font-size: 35px;
     letter-spacing: 10px;
     margin-top: 5px;
@@ -127,23 +126,23 @@ header {
 }
 
 .iki {
-    background-image: url("src/iki.jpg");
+    background-image: url('src/iki.jpg');
 }
 
 .latif {
-  background-image: url("src/latif.png");
+  background-image: url('src/latif.png');
 }
 
 .putri {
-    background-image: url("src/putri.jpg");
+    background-image: url('src/putri.jpg');
 }
 
 .sabil {
-  background-image: url("src/sabil.png");
+  background-image: url('src/sabil.png');
 }
 
 .nunun {
-  background-image: url("src/nunun.jpg");
+  background-image: url('src/nunun.jpg');
 }
 
 .text,
@@ -167,7 +166,7 @@ header {
 .extra-2 {
     width: 100%;
     min-height: 100%;
-    background: #eba151 url('../src/newsletter_pat.png') repeat;
+    background: #eba151 url('src/newsletter_pat.png') repeat;
     background-position: 0 -20px;
     position: relative;
     display: flex;
