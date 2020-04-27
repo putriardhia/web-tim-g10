@@ -76,7 +76,7 @@ header {
 
 .top-wrapper {
     padding: 180px 0 180px 0;
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('src/top.jpg');
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('src/Top.jpg');
     background-size: cover;
     color: #eba151;
     text-align: center;
@@ -166,7 +166,7 @@ header {
 .extra-2 {
     width: 100%;
     min-height: 100%;
-    background: #eba151 url('src/newsletter_pat.png') repeat;
+    background: #eba151 url('src/letter.png') repeat;
     background-position: 0 -20px;
     position: relative;
     display: flex;
